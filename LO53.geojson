@@ -5,9 +5,9 @@
       "type": "Feature",
       "id": 0,
       "properties": { 
-         "Heure": "12h01:41",
-         "Lieu":"Fresnes_TGV_1",
-         "Événement":"HO"
+         "Time": "12h01:41",
+         "Place":"Fresnes_TGV_1",
+         "Event":"HO"
          },
       "geometry": {
         "type": "Point",
@@ -21,11 +21,11 @@
       "type": "Feature",
       "id": 1,
       "properties": { 
-         "Lieu":"Jablines_1",
-         "Heure1": "12h01:23",
-         "Événement1":"HO",
-         "Heure2": "12:01:15",
-         "Événement2":"COM1"
+         "Place":"Jablines_1",
+         "Time1": "12h01:23",
+         "Event1":"HO",
+         "Time2": "12:01:15",
+         "Event2":"COM1"
          },
       "geometry": {
         "type": "Point",
@@ -39,9 +39,9 @@
       "type": "Feature",
       "id": 2,
       "properties": { 
-         "Lieu":"Esbly_1",
-         "Heure": "12:00:37",
-         "Événement":"COM1"
+         "Place":"Esbly_1",
+         "Time": "12:00:37",
+         "Event":"COM1"
          },
       "geometry": {
         "type": "Point",
@@ -55,11 +55,11 @@
       "type": "Feature",
       "id": 3,
       "properties": { 
-         "Lieu":"Chalifert_TGV_1",
-         "Heure1": "12:00:15",
-         "Événement1":"COM1",
-         "Heure2": "11:59:41",
-         "Événement2":"HO"
+         "Place":"Chalifert_TGV_1",
+         "Time1": "12:00:15",
+         "Event1":"COM1",
+         "Time2": "11:59:41",
+         "Event2":"HO"
          },
       "geometry": {
         "type": "Point",
@@ -73,17 +73,17 @@
       "type": "Feature",
       "id": 4,
       "properties": { 
-         "Lieu":"Disney_IM_1",
-         "Heure1": "12:00:15",
-         "Événement1":"COM1",
-         "Heure2": "11:59:41",
-         "Événement2":"HO",
-         "Heure3": "11:59:04",
-         "Événement3":"COM1",
-         "Heure4": "11:58:04",
-         "Événement4":"COM1",
-         "Heure5": "11:56:33",
-         "Événement5":"COM1"
+         "Place":"Disney_IM_1",
+         "Time1": "12:00:15",
+         "Event1":"COM1",
+         "Time2": "11:59:41",
+         "Event2":"HO",
+         "Time3": "11:59:04",
+         "Event3":"COM1",
+         "Time4": "11:58:04",
+         "Event4":"COM1",
+         "Time5": "11:56:33",
+         "Event5":"COM1"
          },
       "geometry": {
         "type": "Point",
@@ -97,9 +97,9 @@
       "type": "Feature",
       "id": 4,
       "properties": { 
-         "Lieu":"Mont_St_Sebastien_Ferme_1",
-         "Heure1": "11:42:39",
-         "Événement1":"LAUN"
+         "Place":"Mont_St_Sebastien_Ferme_1",
+         "Time1": "11:42:39",
+         "Event1":"LAUN"
          },
       "geometry": {
         "type": "Point",
