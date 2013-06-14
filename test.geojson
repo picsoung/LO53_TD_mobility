@@ -34,22 +34,7 @@
           48.9178998516455
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "id": 3,
-      "properties": { 
-         "Heure": "12:01:15",
-         "Lieu":"Jablines_1",
-         "Événement":"COM1"
-         },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.7601158471064,
-          48.9178998516455
-        ]
-      }
     }
+    
   ]
 }
