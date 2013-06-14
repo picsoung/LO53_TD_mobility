@@ -34,7 +34,58 @@
           48.9178998516455
         ]
       }
-    }
-    
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": { 
+         "Lieu":"Esbly_1",
+         "Heure": "12:00:37",
+         "Événement":"COM1"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.80251524278219,
+          48.9092041632436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": { 
+         "Lieu":"Chalifert_TGV_1",
+         "Heure1": "12:00:15",
+         "Événement1":"COM1",
+         "Heure2": "11:59:41",
+         "Événement2":"HO"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78292882843403,
+          48.8892823181399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": { 
+         "Lieu":"Disney_IM_1",
+         "Heure1": "12:00:15",
+         "Événement1":"COM1",
+         "Heure2": "11:59:41",
+         "Événement2":"HO"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78292882843403,
+          48.8892823181399
+        ]
+      }
+    },
   ]
 }
