@@ -16,6 +16,22 @@
           48.9371330291006
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": { 
+         "Heure": "12h01:23",
+         "Lieu":"Jablines_1",
+         "Événement":"HO"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7601158471064,
+          48.9178998516455
+        ]
+      }
     }
   ]
 }
