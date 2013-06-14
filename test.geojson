@@ -1,4 +1,17 @@
 {
   "type": "FeatureCollection",
-  "features": [{"type": "Feature","geometry": {"type": "Point","coordinates": [2.384033203125,48.84302835299516]}}]
+  "features": [
+    {
+      "type": "Feature",
+      "id": 0,
+      "properties": { "ZIP": "60647" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.384033203125,
+          48.84302835299516
+        ]
+      }
+    }
+  ]
 }
