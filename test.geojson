@@ -4,12 +4,16 @@
     {
       "type": "Feature",
       "id": 0,
-      "properties": { "ZIP": "60647" },
+      "properties": { 
+         "Heure": "12h01:41",
+         "Lieu":"Fresnes_TGV_1",
+         "Événement":"HO"
+         },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.384033203125,
-          48.84302835299516
+          3.00791231,
+          69.13692969
         ]
       }
     }
