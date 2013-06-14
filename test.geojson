@@ -22,10 +22,10 @@
       "id": 1,
       "properties": { 
          "Lieu":"Jablines_1",
-         "Heure": "12h01:23",
-         "Événement":"HO",
-         "Heure": "12:01:15",
-         "Événement":"COM1"
+         "Heure1": "12h01:23",
+         "Événement1":"HO",
+         "Heure2": "12:01:15",
+         "Événement2":"COM1"
          },
       "geometry": {
         "type": "Point",
