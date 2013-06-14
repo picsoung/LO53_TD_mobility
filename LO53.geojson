@@ -1,19 +1,111 @@
 {
-"type":"FeatureCollection",
+  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
+      "id": 0,
+      "properties": { 
+         "Heure": "12h01:41",
+         "Lieu":"Fresnes_TGV_1",
+         "Événement":"HO"
+         },
       "geometry": {
-        "type": "LineString",
+        "type": "Point",
         "coordinates": [
-          [
-            0.7470703125,
-            47.010225655683485
-          ],
-          [
-            4.21875,
-            48.748945343432936
-          ],
+          2.72822910961229,
+          48.9371330291006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": { 
+         "Lieu":"Jablines_1",
+         "Heure1": "12h01:23",
+         "Événement1":"HO",
+         "Heure2": "12:01:15",
+         "Événement2":"COM1"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7601158471064,
+          48.9178998516455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": { 
+         "Lieu":"Esbly_1",
+         "Heure": "12:00:37",
+         "Événement":"COM1"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.80251524278219,
+          48.9092041632436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": { 
+         "Lieu":"Chalifert_TGV_1",
+         "Heure1": "12:00:15",
+         "Événement1":"COM1",
+         "Heure2": "11:59:41",
+         "Événement2":"HO"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78292882843403,
+          48.8892823181399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": { 
+         "Lieu":"Disney_IM_1",
+         "Heure1": "12:00:15",
+         "Événement1":"COM1",
+         "Heure2": "11:59:41",
+         "Événement2":"HO",
+         "Heure3": "11:59:04",
+         "Événement3":"COM1",
+         "Heure4": "11:58:04",
+         "Événement4":"COM1",
+         "Heure5": "11:56:33",
+         "Événement5":"COM1"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.78292882843403,
+          48.8892823181399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": { 
+         "Lieu":"Mont_St_Sebastien_Ferme_1",
+         "Heure1": "11:42:39",
+         "Événement1":"LAUN"
+         },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.74391930045147,
+          48.6351899605986
         ]
       }
     }
